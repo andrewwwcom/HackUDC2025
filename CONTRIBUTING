@@ -1,1 +1,19 @@
-Here we have our contributers who hekp us made this possible
+Los principales contribuidores y dirigentes de InteLog son Andre Bazan,Nolan Dutiel e Isabel Villar.
+Gracias por tu interés en seguir a Intelog. Este documento te guiará en el proceso de contribuir y 
+en las expectativas que tenemos para todos los usuarios.
+
+Por favor, sigue estas pautas para que el proceso sea eficiente y agradable tanto para ti como para el equipo de desarrollo.
+
+TABLA DE CONTENIDO
+- [Cómo Contribuir](#cómo-contribuir)
+- [Normas de Estilo]Recomendamos el uso de Prettier si esñta a tu alcance, aunque en general no hay ninguna regla estricta con
+respecto al estilo
+- [Proceso de Pull Request] Contamos con un servidor de Dsiscord para mantenernos al tanto de todos los cambios en nuestros archivos
+
+- [Informar Errores y Solicitudes de Mejora] Para informar sobre errores el proceso es escribir en la cabcera del archivo el error 
+identificado y su ubicación, también una fecha para estar al corriente de cuándo fue que inició.
+
+- [Comportamiento Esperado] Esperamos encarecidamente que cualquiera que esté dispuesto a aportar al proyecto 
+también esté dispuesto a respetar a los demás y a sus aportes, siempre con sentido común
+
+- [Licencia de Contribución] Usamos GitHub,AndroidStudiom,PostgreSQL,VSC
