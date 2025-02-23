@@ -1,9 +1,6 @@
-# HackUDC2025
-Este es un repositorio dedicadoa InteLog,una app desarrollada durante el UDCHack2025.
-InteLog facilita el proceso de solución de problemas a través de brindar el contacto de alguien desenvuelto en el tema de la problemática que está dispuesto a ayudarte.
-El propósito de InteLog es la solución de problemas a través de la facilitación de la conexión 
-Esta app depende de los repostiorios en los que está guardada, si se quiere tener acceso a ella, uno de los desarrolladores dirigentes
-estará encantado de hacer posible su acceso.
-La app es tan intuitiva que puedes saber qué hace y qué no hace con solo entrar y logearte.
-En caso dek surgimiento de alguna dua,problema o sugerencia, contactar con los desarrolladores dirigentes.
+InteLog - Conectando Conocimiento, Potenciando Equipos
+En un mundo donde el aprendizaje y la colaboración son clave para el crecimiento de cualquier empresa, InteLog nace como una solución innovadora para gestionar y compartir habilidades dentro de un equipo de trabajo.
 
+Nuestra aplicación permite a los empleados registrar sus competencias técnicas, buscar expertos en determinadas áreas y descubrir qué conocimientos necesitan adquirir para seguir creciendo profesionalmente.
+
+Con una interfaz sencilla y un potente sistema de búsqueda, InteLog facilita la conexión entre compañeros, optimizando la distribución del conocimiento y fortaleciendo la sinergia dentro de la organización.
